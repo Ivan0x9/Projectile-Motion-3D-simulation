@@ -1,0 +1,52 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{376FBEA0-73C1-5F03-218C-9FF705DA6B47}") = "Simulacija kosog hitca [PROTOTIP]", "Assembly-CSharp-firstpass.csproj", "{537FA4AE-CF20-F80E-0AA5-B1CA282EBC83}"
+EndProject
+Project("{376FBEA0-73C1-5F03-218C-9FF705DA6B47}") = "Simulacija kosog hitca [PROTOTIP]", "Assembly-CSharp.csproj", "{AE35E19F-4983-C0ED-D20F-206F8517CC0E}"
+EndProject
+Project("{376FBEA0-73C1-5F03-218C-9FF705DA6B47}") = "Simulacija kosog hitca [PROTOTIP]", "Assembly-UnityScript-firstpass.unityproj", "{F831BFFE-28C2-18C3-2839-49F3CAC6D354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{537FA4AE-CF20-F80E-0AA5-B1CA282EBC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537FA4AE-CF20-F80E-0AA5-B1CA282EBC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537FA4AE-CF20-F80E-0AA5-B1CA282EBC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537FA4AE-CF20-F80E-0AA5-B1CA282EBC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE35E19F-4983-C0ED-D20F-206F8517CC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE35E19F-4983-C0ED-D20F-206F8517CC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE35E19F-4983-C0ED-D20F-206F8517CC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE35E19F-4983-C0ED-D20F-206F8517CC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F831BFFE-28C2-18C3-2839-49F3CAC6D354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F831BFFE-28C2-18C3-2839-49F3CAC6D354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F831BFFE-28C2-18C3-2839-49F3CAC6D354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F831BFFE-28C2-18C3-2839-49F3CAC6D354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																											GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
